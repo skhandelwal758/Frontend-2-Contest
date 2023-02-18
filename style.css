@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.heading{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    margin-bottom: 40px;
+
+}
+.input-border{
+    background-color: black;
+    color: white;
+    border-color: white;
+
+}
+.button-border{
+    background-color: #FBFFFD;
+    color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    border-color: white;
+}
